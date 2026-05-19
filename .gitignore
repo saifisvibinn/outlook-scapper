@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+ms-playwright/
+build/
+dist/
+*.spec
+output/
+owa_session.json
+senders.json
+icon.ico
+OWAScraper-for-boss.zip
+*.zip

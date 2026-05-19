@@ -1,0 +1,8 @@
+flask
+pystray
+pillow
+pandas
+playwright
+openpyxl
+python-dateutil
+pyinstaller
