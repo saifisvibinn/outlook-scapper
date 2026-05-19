@@ -27,7 +27,7 @@ Sign in once via the app UI. Session is saved as `owa_session.json` (gitignored)
 Output:
 
 - `dist\OWAScraper\OWAScraper.exe` — test locally
-- `OWAScraper-for-boss.zip` — send this zip to non-technical users
+- `outlookscraper.zip` — send this zip to non-technical users
 
 They unzip and double-click **OWAScraper.exe**. Use **Quit app** in the UI to fully exit (closing the browser is not enough).
 

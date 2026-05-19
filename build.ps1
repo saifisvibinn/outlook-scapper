@@ -11,7 +11,7 @@ $venvPython = Join-Path $venvScripts "python.exe"
 $venvPip = Join-Path $venvScripts "pip.exe"
 $playwrightDir = Join-Path $PSScriptRoot "ms-playwright"
 $distDir = Join-Path $PSScriptRoot "dist\OWAScraper"
-$zipPath = Join-Path $PSScriptRoot "OWAScraper-for-boss.zip"
+$zipPath = Join-Path $PSScriptRoot "outlookscraper.zip"
 
 if (-not (Test-Path $venvPython)) {
     throw ".venv not found. Run once: python -m venv .venv"
